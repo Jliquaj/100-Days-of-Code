@@ -22,11 +22,9 @@ Participated in the 100 Days of Code challenge, dedicating time each day to enha
 - Git Integration: Managed version control and tracked changes using Replit’s built-in Git functionality.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
 
 *Ref 1: Day one of coding
 
+![image](https://github.com/user-attachments/assets/a118555c-e48e-4a8b-93dd-cbe7ee664eac)
+
+I commited to the 100 day challenge to sharpen my skills.
