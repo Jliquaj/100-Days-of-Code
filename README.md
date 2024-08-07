@@ -30,5 +30,3 @@ Example below.
 
 *Ref 1: Day one of coding
 
-![Image Alt](![image](https://github.com/user-attachments/assets/c236c9d6-8975-4f74-b121-beea3d653b30)
-)
