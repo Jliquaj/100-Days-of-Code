@@ -25,6 +25,6 @@ Participated in the 100 Days of Code challenge, dedicating time each day to enha
 
 *Ref 1: Day one of coding
 
-![image](https://github.com/user-attachments/assets/a118555c-e48e-4a8b-93dd-cbe7ee664eac)
+![image](https://github.com/user-attachments/assets/a5cbdc04-6def-4653-b8c4-a139da0facff)
 
 I commited to the 100 day challenge to sharpen my skills.
